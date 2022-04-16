@@ -1,0 +1,35 @@
+.movie-field {
+  display: flex;
+  background-color: rgb(48, 34, 128);
+  color: white;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgb(10, 10, 10);
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 5vw;
+  min-height: 400px;
+  height: auto;
+  font-size: 0.75em;
+}
+ul {
+  list-style-type: none;
+  padding: 10px;
+  padding-left: 0;
+  margin-bottom: 10px;
+}
+.movie-place {
+  margin: 10px;
+  width: 40vw;
+  border: 5px solid black;
+}
+.description {
+  display: inline;
+  text-align: justify;
+}
+.description p {
+  text-indent: 10px;
+}
+.description h4 {
+  font-size: 1.5em;
+}

@@ -1,0 +1,12 @@
+footer {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 10px;
+  height: 75px;
+}
+.photo-place {
+  width: 10vw;
+  margin-right: 40px;
+}
